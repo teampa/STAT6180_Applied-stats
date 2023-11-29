@@ -58,6 +58,6 @@ This project is for academic purposes and is not licensed for commercial use.
 ## Contact
 For inquiries or collaborations, contact:
 - Parinya Sodsai
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: parinya.ssai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/parinya-sodsai-70b66b18b/
+- GitHub: https://github.com/teampa
