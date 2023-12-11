@@ -47,7 +47,7 @@ The second project investigates the impact of recipe and baking temperature on t
 
 ## Technologies
 - R Language
-- R Libraries: `ggplot2`, `dplyr`, `stats`, etc.
+- R Libraries: `ggplot2`
 
 ## Installation and Usage
 (Instructions on setting up R and running the analysis script for each study.)
